@@ -11,7 +11,7 @@ Submit your solution, by creating a release on GitHub named “v1.0″. In case 
 ##Requirements
 
 ### The real-time application
-The realtime layer should be a feature developed on the application you created in the previous assignment (Sticky snippets). The realtime feature should give authenticated users a possibility to get real-time notifications about the applications events. The miniumem requerments of events are:
+The realtime layer should be a feature developed on the application you created in the previous assignment (Sticky snippets). The realtime application should be using the websocket protocol. The realtime feature should give authenticated users a possibility to get real-time notifications about the applications events. The miniumem requerments of events are:
 
 * A users register a new account (the username should be notified)
 * A user logs in to the system (the username should be notified)
@@ -38,10 +38,12 @@ Other requirements are:
 
 
 ## Extra features [optional]
-Try to implement a own real-time feature. Examples can be:
+Try to implement a own real-time feature (using the websocket). Examples can be:
 
-* A chat following the user through the application.
-* 
+* A chat presented on each snippet page where users can disques snippets.
+* A whiteboard application presented on each snippet page
+* A funny game hidden as a easter egg
+* You probably have other more funny ideas...feel free to try them
 
 ## Examination
 You will book a time for this and the oral exam which is 17/3 between 0830-1500. Availible times to book will be published on the course web page that week. The exam is graded U, G or VG.
