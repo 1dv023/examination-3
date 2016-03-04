@@ -36,7 +36,7 @@ Other requirements are:
 * The application shall be running through HTTPS (no requirement of signed certifactes or that you need to buy a domain name)
 * The code should be pushed to the live server through remote git pushes
 * The node.js application should be running through PM2 
-* You shall create a installations document that describes the installation process that you used. This shall be in md-format and provided in your repositorie.
+* You shall create a installations document that describes the installation process that you used to set up your production enviroment. This shall be in md-format and provided in your repositorie.
 
 
 ## Extra features [optional]
