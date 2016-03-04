@@ -44,8 +44,8 @@ Try to implement a own real-time feature (using the websocket). Examples can be:
 
 * A chat presented on each snippet page where users can disques snippets.
 * A whiteboard application presented on each snippet page
-* A funny game hidden as a easter egg
-* You probably have other more funny ideas...feel free to try them
+* A game (maybe hidden as an easter egg)
+* You probably have other ideas...feel free to try them
 
 ## Examination
 You will book a time for this and the oral exam which is 17/3 between 0830-1500. Availible times to book will be published on the course web page that week. The exam is graded U, G or VG.
