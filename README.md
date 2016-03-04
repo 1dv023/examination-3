@@ -1,7 +1,7 @@
 
 ##Examination 3 - Going into real life
 
-In this assignment, you will create a real-time layer above the web application you wrote in the previous assignment. The idea is to have a monotoring dashboard for athenticated users that shows events happening in the application. The application should also be published on a public server with a reversed proxy in-front of the node application.
+In this assignment, you will create a real-time layer on top of the web application you wrote in the previous assignment. The idea is to have a monotoring dashboard for athenticated users that shows events happening in the application. The application should also be published on a public server with a reversed proxy in-front of the node application.
 
 >###Deadline
 Thursday, March 17, 2016 7:00 AM 
@@ -15,10 +15,10 @@ The application should be running on a public server and the URL should be in th
 ### The real-time application
 The realtime layer should be a feature developed on the application you created in the previous assignment (Sticky snippets). The realtime application should be using the websocket protocol. The realtime feature should give authenticated users a possibility to get real-time notifications about the applications events. The miniumem requerments of events are:
 
-* A users register a new account (the username should be notified)
-* A user logs in to the system (the username should be notified)
-* A user fails to log in to the system (the attempted username should be notified)
-* A user creates a new snippet (a link to the new snippet should be notified)
+* A users register a new account (notification containing the username)
+* A user logs in to the system (notification containing the username)
+* A user fails to log in to the system (notification containing the  attempted username)
+* A user creates a new snippet (notification containing a link to the new snippet)
 * A user deletes a snippets
 * A user starts editing a snippet (a link to a live editing view should be provided - see below)
 * A user stops editing the snippet
@@ -36,7 +36,7 @@ Other requirements are:
 * The application shall be running through HTTPS (no requirement of signed certifactes or that you need to buy a domain name)
 * The code should be pushed to the live server through remote git pushes
 * The node.js application should be running through PM2 
-* You shall create a installations document that describes the installation process that you used to set up your production enviroment. This shall be in md-format and provided in your repositorie.
+* You shall create a installation document that describes the installation process that you used to set up your production enviroment. This shall be in md-format and provided in your repositorie.
 
 
 ## Extra features [optional]
