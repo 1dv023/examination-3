@@ -1,5 +1,5 @@
 
-##Examination 3 - Monitoring monster
+##Examination 3 - Going into real life
 
 In this assignment, you will create a real-time layer above the web application you wrote in the previous assignment. The idea is to have a monotoring dashboard for athenticated users that shows events happening in the application. The application should also be published on a public server with a reversed proxy in-front of the node application.
 
@@ -7,6 +7,8 @@ In this assignment, you will create a real-time layer above the web application 
 Thursday, March 17, 2016 7:00 AM 
 ###Submission Instructions
 Submit your solution, by creating a release on GitHub named “v1.0″. In case of changes after creating a release, please increment the minor version number, i.e. “v1.1″, “v1.22", etc.
+The application should be running on a public server and the URL should be in the README-file
+
 
 ##Requirements
 
