@@ -4,7 +4,7 @@
 In this assignment, you will create a real-time layer on top of the web application you wrote in the previous assignment. The idea is to have a monotoring dashboard for athenticated users that shows events happening in the application. The application should also be published on a public server with a reversed proxy in-front of the node application.
 
 >###Deadline
-Thursday, March 17, 2016 7:00 AM 
+Friday, March 18, 2016 7:00 AM 
 ###Submission Instructions
 Submit your solution, by creating a release on GitHub named “v1.0″. In case of changes after creating a release, please increment the minor version number, i.e. “v1.1″, “v1.22", etc.
 The application should be running on a public server and the URL should be in the README-file
@@ -48,4 +48,4 @@ Try to implement a own real-time feature (using the websocket). Examples can be:
 * You probably have other ideas...feel free to try them
 
 ## Examination
-You will book a time for this and the oral exam which is 17/3 between 0830-1500. Availible times to book will be published on the course web page that week. The exam is graded U, G or VG.
+You will book a time for this and the oral exam which is 18/3 between 0830-1500. Availible times to book will be published on the course web page that week. The exam is graded U, G or VG.
