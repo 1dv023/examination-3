@@ -33,7 +33,7 @@ The application shall be running on a public web server in production enviroment
 Other requirements are:
 
 * The node.js application should have a reversed proxy (nginx) in-front 
-* The application shall be running through HTTPS (no requirement of signed certifactes or that you need to buy a domain name)
+* The application shall be running through HTTPS (no requirement of buying a domian name so self-signed certificate is OK)
 * The code should be pushed to the live server through remote git pushes
 * The node.js application should be running through PM2 
 * You shall create a installation document that describes the installation process that you used to set up your production enviroment. This shall be in md-format and provided in your repositorie.
