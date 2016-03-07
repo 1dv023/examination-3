@@ -1,5 +1,5 @@
 
-##Examination 3 - Going into real life
+##Examination 3 - Into the wild
 
 In this assignment, you will create a real-time layer on top of the web application you wrote in the previous assignment. The idea is to have a monotoring dashboard for athenticated users that shows events happening in the application. The application should also be published on a public server with a reversed proxy in-front of the node application.
 
